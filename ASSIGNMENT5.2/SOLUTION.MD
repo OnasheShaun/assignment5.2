@@ -25,6 +25,7 @@ When selectors have equal specificity, the later applicable declaration generall
 
 
 ## 7. WEBPAGE SCREEN SHOT
+
 ![alt text](<5.2 css selector-1.png>)
 
 
